@@ -2,7 +2,7 @@
 /*
 Utilizando uma das fórmulas matemáticas:
   °C = (°F - 32) x (5/9)
-Converta 57.2ºF (Fahrenheit) para Celsius.
+Converta 57.2°F (Fahrenheit) para Celsius.
 */
 
 // Entrada de dados
