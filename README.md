@@ -23,7 +23,7 @@ Por padrão a estrutura de um algoritmo possui:
 
 Um exemplo de código nesta estrutura é:
 
-`
+```
 <script>
   // Entrada de dados
   let x = 5;
@@ -35,4 +35,4 @@ Um exemplo de código nesta estrutura é:
   // Saída de dados
   document.write(`O resultado da soma é $(soma)`);
 </script>
-`
+```
