@@ -7,12 +7,18 @@ Encontre as raizes reais para equação de segundo grau: 4x² + 6x + 2 = 0.
 */
 
 // Entrada de dados
-
+var a = 4;
+var b = 6;
+var c = 2;
 
 // Processamento
-
+var delta = b * b - 4 * a * c;
+var x1 = (-b + Math.sqrt(delta)) / (2 * a);
+var x2 = (-b - Math.sqrt(delta)) / (2 * a);
 
 // Saída de dados
-
+console.log("As raízes reais da equação são:");
+console.log("x1 =", x1);
+console.log("x2 =", x2);
 
 </script>
